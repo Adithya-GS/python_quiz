@@ -1,0 +1,21 @@
+american standard code for information interchange
+basic input output system
+computer aided design
+central processing unit
+database management system
+graphical user interface
+hypertext markup language
+hypertext transport protocol
+international business machine
+integrated circuit
+internet protocol
+local area network
+light emitting diode
+mega bytes
+operating system
+portable document format
+random access memory
+read only memory
+structured query language
+wide are network
+
